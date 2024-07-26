@@ -19,9 +19,10 @@ These were the results from this step:
 
 - Plotting a Bland Altman graph to investigate the correlation between NDVI(signifying health of rice), and NDMI(signifying amount of water)
 The Bland Altman plots showing the correlation between amount of water in the field(NDMI) and health of the rice(NDVI) for each growing stage were as follows:
+
 ![blandplot1](https://github.com/user-attachments/assets/9ce3ea85-2551-42cd-b99c-36213f030198)
 ![blandplot2](https://github.com/user-attachments/assets/c116e6d3-cb1b-41f6-90cc-5e39417cc3cb)
-![blandplot3](https://github.com/user-attachments/assets/be7ba535-6d2e-4e5b-ae8f-de7768268860)
+![blandplot](https://github.com/user-attachments/assets/2bb8192c-950f-44c5-a4b2-c02737080edb)
 ![blandplot4](https://github.com/user-attachments/assets/fc3ea86f-afa4-48de-b09a-8f852e3fde5b)
 
 
