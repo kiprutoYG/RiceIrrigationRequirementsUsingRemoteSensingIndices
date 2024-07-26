@@ -17,8 +17,8 @@ These were the results from this step:
 ![NDVI_plot](https://github.com/user-attachments/assets/1e1e8944-94aa-4bad-8d07-f6729d6d2f16)
 ![NDMI_plot](https://github.com/user-attachments/assets/cd98c002-d7b8-463f-ba98-010c99e5ef89)
 
-- Plotting a Bland Altman graph to investigate the correlation between NDVI(signifying health of rice), and NDMI(signifying amount of water)
-The Bland Altman plots showing the correlation between amount of water in the field(NDMI) and health of the rice(NDVI) for each growing stage were as follows:
+- Plotting a Bland Altman graph to investigate the correlation between NDVI (signifying health of rice), and NDMI(signifying amount of water)
+The Bland Altman plots showing the correlation between amount of water in the field (NDMI) and health of the rice (NDVI) for each growing stage. The more the observations that fall between the upper and lower limits, the more the correlation between the 2 compared variables. The results for each growing stage were as follows:
 
 ![blandplot1](https://github.com/user-attachments/assets/9ce3ea85-2551-42cd-b99c-36213f030198)
 ![blandplot2](https://github.com/user-attachments/assets/c116e6d3-cb1b-41f6-90cc-5e39417cc3cb)
@@ -36,7 +36,7 @@ The Bland Altman plots showing the correlation between amount of water in the fi
 ![Crop_Evapotranspiration_plot](https://github.com/user-attachments/assets/245b16a4-807f-47c1-ac7b-d7ee1ddbdee5)
 
 - Calculating the effective rainfall
-- Using all these pre-obtained variable to calculate the irrigation needs using Hagreaves-Samani methodology
+- Using all these pre-obtained variables to calculate the irrigation needs using Hagreaves-Samani methodology
 ![Irrigation_needs_plot](https://github.com/user-attachments/assets/26d760d1-1953-429d-a54c-870512e96956)
 
 
