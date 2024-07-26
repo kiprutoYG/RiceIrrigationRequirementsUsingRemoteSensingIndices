@@ -1,4 +1,4 @@
-# rice-irrigation-requirements-remotesensing
+# Assessment of Rice Irrigation Requirements Using Remote Sensing Indices
 Using remote sensing imagery with remote sensing indices and R programming to calculate rice irrigation requirements
 This project employs cutting-edge remote sensing trends to calculate the rice irrigation requirements for an irrigation system in the growing season of 2023.
 All plots were done using R GGPLOT library.
@@ -19,10 +19,11 @@ These were the results from this step:
 
 - Plotting a Bland Altman graph to investigate the correlation between NDVI(signifying health of rice), and NDMI(signifying amount of water)
 The Bland Altman plots showing the correlation between amount of water in the field(NDMI) and health of the rice(NDVI) for each growing stage were as follows:
-![blandplot1](https://github.com/user-attachments/assets/9a787da7-9cb4-4fd3-a612-1799c312b72e)
-![blandplot2](https://github.com/user-attachments/assets/524ab35f-68a7-487d-8ff1-8fee6ab85525)
-![blandplot3](https://github.com/user-attachments/assets/dd9d7197-02b3-4f8d-9adc-2593ba85e2b2)
-![blandplot4](https://github.com/user-attachments/assets/31534828-13f5-41d3-b3eb-f36cfc855db4)
+![blandplot1](https://github.com/user-attachments/assets/9ce3ea85-2551-42cd-b99c-36213f030198)
+![blandplot2](https://github.com/user-attachments/assets/c116e6d3-cb1b-41f6-90cc-5e39417cc3cb)
+![blandplot3](https://github.com/user-attachments/assets/be7ba535-6d2e-4e5b-ae8f-de7768268860)
+![blandplot4](https://github.com/user-attachments/assets/fc3ea86f-afa4-48de-b09a-8f852e3fde5b)
+
 
 - Obtaining temperature, rainfall, and water layer data
 - Calculating extratterestial radiation
